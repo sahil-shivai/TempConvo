@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(34, 4, 63);
+    color: white;
+    font-family: 'JetBrains Mono';
+}
+header{
+    background-color: white;
+    color: rgb(34, 4, 63);
+    font-size: 25;
+    text-align: center;    
+}
+header h3{
+    padding: 15px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: none;
+    background-color: orange;
+}
+.anspanel{
+    height: 85px;
+    text-align: center;
+    background-color: orange;
+    padding: 1px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bolder;
+}
